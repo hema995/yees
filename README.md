@@ -68,7 +68,7 @@ Screen Shot
 
 Installation
 -----------------------
-- Clone this project from https://github.com/amirhamza05/Student-Management-System
+- Clone this project from https://github.com/hema995/Student-Management-System
 - After clone you can see this installation screen
 ![screenshot](https://raw.githubusercontent.com/amirhamza05/Student-Management-System/master/screen_shot/install_screen.png)
 
